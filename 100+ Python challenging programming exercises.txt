@@ -16,7 +16,7 @@ Solution
 3.	Questions
 
 #----------------------------------------#
-Question 1
+Question 1 done
 Level 1
 
 Question:
@@ -37,7 +37,7 @@ print ','.join(l)
 #----------------------------------------#
 
 #----------------------------------------#
-Question 2
+Question 2 done
 Level 1
 
 Question:
@@ -62,7 +62,7 @@ print fact(x)
 #----------------------------------------#
 
 #----------------------------------------#
-Question 3
+Question 3 done
 Level 1
 
 Question:
@@ -86,7 +86,7 @@ print d
 #----------------------------------------#
 
 #----------------------------------------#
-Question 4
+Question 4 done !!!!!
 Level 1
 
 Question:
@@ -110,7 +110,7 @@ print t
 #----------------------------------------#
 
 #----------------------------------------#
-Question 5
+Question 5 /done
 Level 1
 
 Question:
